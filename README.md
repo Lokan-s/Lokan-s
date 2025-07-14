@@ -11,17 +11,17 @@
 📺 Também compartilho conteúdos no meu canal no YouTube, onde ensino o que estou aprendendo na prática.  
 Você pode acompanhar pelo canal [**lokan-s**](https://www.youtube.com/UCpDVplM51iWfbExnXAzk7rg), onde ensino como criar projetos web passo a passo.
 
-Além disso, estou presente no Instagram com o perfil [**@dev.mania**](https://www.instagram.com/@eu.guilherme.ss), onde posto dicas rápidas, curiosidades e bastidores da minha jornada como desenvolvedor.
+Além disso, estou presente no Instagram com o perfil [**@eu.guilherme.ss**](https://www.instagram.com/@eu.guilherme.ss), onde posto dicas rápidas, curiosidades e bastidores da minha jornada como desenvolvedor.
 📫 Estou sempre aberto a colaborações, feedbacks e novas conexões. Sinta-se à vontade para entrar em contato comigo através das minhas redes sociais:
 <p align="left">
-    <a href="https://www.youtube.com/@dev-mania?sub_confirmation=1">
+    <a href="https://www.youtube.com/@lokan-s?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCpDVplM51iWfbExnXAzk7rg?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@dev-mania">
+    <a href="https://www.youtube.com/@lokan-s">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
