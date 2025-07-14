@@ -9,7 +9,7 @@
 💻 Sou apaixonado por tecnologia, programação e tudo o que envolve o universo do desenvolvimento de software. Aqui no GitHub, compartilho meus projetos, estudos e experimentos ao longo da minha jornada como desenvolvedor.
 
 📺 Também compartilho conteúdos no meu canal no YouTube, onde ensino o que estou aprendendo na prática.  
-Você pode acompanhar pelo canal [**DEV - MANIA**](https://www.youtube.com/UCpDVplM51iWfbExnXAzk7rg), onde ensino como criar projetos web passo a passo.
+Você pode acompanhar pelo canal [**lokan-s**](https://www.youtube.com/UCpDVplM51iWfbExnXAzk7rg), onde ensino como criar projetos web passo a passo.
 
 Além disso, estou presente no Instagram com o perfil [**@dev.mania**](https://www.instagram.com/@eu.guilherme.ss), onde posto dicas rápidas, curiosidades e bastidores da minha jornada como desenvolvedor.
 📫 Estou sempre aberto a colaborações, feedbacks e novas conexões. Sinta-se à vontade para entrar em contato comigo através das minhas redes sociais:
