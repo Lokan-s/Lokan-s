@@ -1,20 +1,18 @@
-# 👨🏻‍💻 Guilherme Soares
+# 👩🏻‍💻 Guilherme Soares
 
 **`Desenvolvedor Front-End`**
 
-Olá! Me chamo Guilherme Soares, tenho 23 anos, sou natural de Manaus (AM) e atualmente moro em Goiânia (GO).
+ Olá! Me chamo Guilherme Soares, tenho 23 anos, sou natural de Manaus (AM) e atualmente moro em Goiânia (GO).
 
 🎓 Concluí o ensino médio com técnico em Informática e atualmente estou cursando Análise e Desenvolvimento de Sistemas.
 
 💻 Sou apaixonado por tecnologia, programação e tudo o que envolve o universo do desenvolvimento de software. Aqui no GitHub, compartilho meus projetos, estudos e experimentos ao longo da minha jornada como desenvolvedor.
 
-📺 Também compartilho conteúdos no meu canal no YouTube, onde ensino o que estou aprendendo na prática:  
-[**@lokan-s**](https://www.youtube.com/@lokan-s)
+📺 Também compartilho conteúdos no meu canal no YouTube, onde ensino o que estou aprendendo na prática.  
+Você pode acompanhar pelo canal [**@lokan-s**](https://www.youtube.com/@lokan-s), onde ensino como criar projetos web passo a passo.
 
-📸 Também estou presente no Instagram:  
-[**@eu.guilherme.ss**](https://www.instagram.com/eu.guilherme.ss)
-
-📫 Estou sempre aberto a colaborações, feedbacks e novas conexões!
+Além disso, estou presente no Instagram com o perfil [**@eu.guilherme.ss**](https://www.instagram.com/eu.guilherme.ss), onde posto dicas rápidas, curiosidades e bastidores da minha jornada como desenvolvedor.
+📫 Estou sempre aberto a colaborações, feedbacks e novas conexões. Sinta-se à vontade para entrar em contato comigo através das minhas redes sociais:
 
 ---
 
